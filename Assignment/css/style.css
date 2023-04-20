@@ -1,0 +1,63 @@
+#image-section{
+    width: 100%;
+    display: flex;
+}
+#img{
+    padding-top:10px;
+    width: 30%;
+} 
+#glasp00{
+    margin-left:40%;
+}
+#tp{
+    margin: auto;
+    width: 55%;
+}
+#tp:hover{
+    cursor: grab;
+    text-decoration:underline;
+    text-decoration-thickness:2px;
+    text-decoration-color: yellow;
+
+}
+#topic{
+    color: cadetblue;
+    font-size:2.5rem;   
+}
+#table{
+    font-size: 2rem;
+}
+#body-message{
+    width: 100%;
+    height: auto;
+    margin-top:50px;
+}
+.contents{
+    color: gray;
+    font-size: 20px;
+}
+#content>a{
+    font-size: 20px;
+    font-weight:500;
+    display: block;
+    color:black;
+    text-decoration: none;
+}
+.write-up{
+    width: 70%;
+    line-height:35px;
+    font-size: 20px;
+    text-align: left;
+}
+h1{
+    font-size:2.5rem;
+    color: cadetblue;
+}
+.body-list{
+    font-size: 20px;
+    line-height:35px ;
+}
+#white{
+    width: 70%;
+    margin-left:calc(50% - 35%);
+}
