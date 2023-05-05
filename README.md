@@ -1,2 +1,6 @@
-# Technical-writing-
-This is an assignment on Glasp 
+---
+description: Your Social Web Highlighter For Organizing And Sharing Knowledge
+---
+
+# GLASP
+
