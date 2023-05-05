@@ -1,3 +1,3 @@
 # Table of contents
 
-* [GLASP](README.md)
+* [GLASP: Your Social Web Highlighter For Organizing And Sharing Knowledge](README.md)

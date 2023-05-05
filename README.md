@@ -1,8 +1,4 @@
----
-description: Your Social Web Highlighter For Organizing And Sharing Knowledge
----
-
-# GLASP
+# GLASP: Your Social Web Highlighter For Organizing And Sharing Knowledge
 
 ### TABLE OF CONTENTS
 
